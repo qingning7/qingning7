@@ -17,6 +17,4 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-## 📝 Projects:
 
-[![zenith-image-generator](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=zenith-image-generator&&theme=tokyonight)](https://github.com/WuMingDao/zenith-image-generator) [![big-banana-emoji-maker](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=big-banana-emoji-maker&&theme=tokyonight)](https://github.com/WuMingDao/big-banana-emoji-maker)
