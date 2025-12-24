@@ -15,8 +15,5 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
-![snake](https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg
-)
-
-![snake](https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake-dark.svg
+![snake](https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=20251224
 )
