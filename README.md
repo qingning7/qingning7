@@ -12,3 +12,11 @@
 #### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
+
+#### Front/Back Frameworks
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+## 📝 Projects:
+
+[![zenith-image-generator](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=zenith-image-generator&&theme=tokyonight)](https://github.com/WuMingDao/zenith-image-generator) [![big-banana-emoji-maker](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=big-banana-emoji-maker&&theme=tokyonight)](https://github.com/WuMingDao/big-banana-emoji-maker)
