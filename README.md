@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"
 />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&color=%23ff69b4&lines=%F0%9F%91%8B+Hi!This+is+qingning+%F0%9F%98%8A;Grade+1+student+in+NanJing+%F0%9F%98%8E;Learning+Front-end+Engineering+%F0%9F%92%A5)
-## About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">About Me
 
 - 🔭 A front-end developer
 - 📌 Open source enthusiast
@@ -9,7 +10,7 @@
 - 🎮 I love Don't Stave Together!
 <hr />
 
-## Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30" style="margin-top: 30px;">Tech Stack:
 
 #### Languages
 
@@ -20,3 +21,6 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2025">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2025">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"
+/>
