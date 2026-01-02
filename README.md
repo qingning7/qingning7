@@ -15,9 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake-dark.svg?v=2025">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2025">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2025">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake-dark.svg?v=2026">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2026">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2026">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"
