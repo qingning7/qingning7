@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"
-/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&color=%23ff69b4&lines=%F0%9F%91%8B+Hi!This+is+qingning+%F0%9F%98%8A;Grade+1+student+in+NanJing+%F0%9F%98%8E;Learning+Front-end+Engineering+%F0%9F%92%A5)
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">About Me
