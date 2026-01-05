@@ -20,5 +20,5 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2026">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"
-/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"
+/>-->
