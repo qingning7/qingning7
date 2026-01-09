@@ -4,7 +4,7 @@
 
 ### 🔭 Double degree(MIS && AI)
 ### 📌 Font-end engineering and open source enthusiast
-### 🎮 I love Don't Stave Together , Outer Wilds and Disco Elysium
+### 🎮 I love Playing Don't Stave Together
 ### 🚀 How to contact me: qingning7lime@gmail.com
 <hr />
 
