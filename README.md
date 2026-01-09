@@ -4,7 +4,7 @@
 
 ### 🔭 Double degree(MIS && AI)
 ### 📌 Font-end engineering and open source enthusiast
-### 🎮 I love Playing Don't Stave Together
+### 🎮 I love playing Don't Stave Together
 ### 🚀 How to contact me: qingning7lime@gmail.com
 <hr />
 
