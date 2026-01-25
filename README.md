@@ -10,6 +10,27 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30" style="margin-top: 30px;">Tech Stack:
 
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/qingning7/github-readme-stats#gh-light-mode-only">
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/qingning7/github-readme-stats#gh-light-mode-only">
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/qingning7/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/qingning7/github-readme-stats#gh-dark-mode-only">
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingning7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1D6?&card_width=445" />
 
 
