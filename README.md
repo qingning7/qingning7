@@ -9,25 +9,23 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingning7&show_icons=true&theme=dracula)-->
 
-<hr />
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30" style="margin-top: 30px;">Tech Stack
+<!--## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30" style="margin-top: 30px;">Tech Stack
 
 <!--<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingning7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1D6?&card_width=445" />-->
 
 
-### Frontend
+<!--### Frontend
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 
 
 
 
-<picture>
+<!--<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake-dark.svg?v=2026">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2026">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qingning7/qingning7/output/github-contribution-grid-snake.svg?v=2026">
 </picture>
 
-<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"
 />-->
